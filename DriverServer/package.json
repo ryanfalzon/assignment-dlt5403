@@ -1,0 +1,22 @@
+{
+  "name": "driverserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "start app.js",
+    "dev": "nodemon --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  },
+  "dependencies": {
+    "@serialport/parser-readline": "^9.0.0",
+    "cors": "^2.8.5",
+    "ed25519": "0.0.4",
+    "express": "^4.17.1",
+    "serialport": "^9.0.0"
+  }
+}
