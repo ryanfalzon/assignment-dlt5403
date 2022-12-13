@@ -16,7 +16,7 @@
     "@serialport/parser-readline": "^9.0.0",
     "cors": "^2.8.5",
     "ed25519": "0.0.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serialport": "^9.0.0"
   }
 }
